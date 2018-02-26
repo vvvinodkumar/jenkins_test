@@ -1,4 +1,4 @@
-# microservices-sample-project of Vinod Kumar
+# microservices-sample-project of Vinod Kumar v.v
 
 ### Prerequisities
   * JDK 1.8.X
