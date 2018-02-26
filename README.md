@@ -1,4 +1,4 @@
-# microservices-sample-project of Vinod Kumar v.v
+# microservices-sample-project of Vinod Kumar - automatic pull test
 
 ### Prerequisities
   * JDK 1.8.X
@@ -36,6 +36,6 @@
 
   
  
-
+## testing scm poll
   
 
