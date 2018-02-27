@@ -2,6 +2,8 @@
 ### testing scm poll
 ### test the scm poll
 
+Testing jenkins integrations testing now
+
 ### Prerequisities
   * JDK 1.8.X
   * Maven 3.3.X
