@@ -2,11 +2,7 @@
 ### testing scm poll
 ### test the scm poll
 
-Testing jenkins integrations testing now
-Testing jenkins integrations testing now
-Testing jenkins integrations testing now
-
-hello world
+This is final testing
 
 updating now
 ### Prerequisities
